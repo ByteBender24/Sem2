@@ -1,0 +1,376 @@
+
+Extraction is successfull.
+
+ ----------------------------------------------------------------------------------------------- 
+
+
+sub-module 1 : xml\__init__.py
+
+loc of submodule            : 1
+no of classes               : 0
+no of independent functions : 0, loc : []
+
+
+no of other loc : 1
+-----------------------------------------------------------------------------------------------
+no of sub-modules : 1
+loc of module     : 1
+
+ -----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------- 
+
+
+Module 1 : 
+
+ ----------------------------------------------------------------------------------------------- 
+
+
+sub-module 1 : xml\dom\domreg.py
+
+loc of submodule            : 56
+no of classes               : 0
+no of independent functions : 4, loc : [2, 5, 25, 18]
+
+
+no of other loc : 6
+-----------------------------------------------------------------------------------------------
+
+sub-module 2 : xml\dom\expatbuilder.py
+
+loc of submodule            : 688
+no of classes               : 12
+no of independent functions : 7, loc : [2, 17, 11, 6, 11, 6, 5]
+
+for class 1: loc : 40,  no of methods : 9,      loc of methods : [4, 2, 2, 9, 2, 7, 5, 5, 2]
+for class 2: loc : 256, no of methods : 28,     loc of methods : [11, 2, 9, 6, 20, 19, 11, 6, 2, 6, 5, 19, 10, 2, 5, 5, 3, 3, 2, 5, 14, 14, 4, 10, 10, 7, 7, 8]
+for class 3: loc : 47,  no of methods : 3,      loc of methods : [2, 12, 17]
+for class 4: loc : 10,  no of methods : 1,      loc of methods : [8]
+for class 5: loc : 23,  no of methods : 3,      loc of methods : [11, 2, 8]
+for class 6: loc : 15,  no of methods : 2,      loc of methods : [5, 8]
+for class 7: loc : 88,  no of methods : 7,      loc of methods : [8, 3, 2, 24, 30, 2, 18]
+for class 8: loc : 71,  no of methods : 6,      loc of methods : [2, 4, 5, 2, 44, 12]
+for class 9: loc : 4,   no of methods : 1,      loc of methods : [3]
+for class 10: loc : 24, no of methods : 2,      loc of methods : [3, 20]
+for class 11: loc : 2,  no of methods : 0,      loc of methods : []
+for class 12: loc : 32, no of methods : 7,      loc of methods : [2, 5, 5, 3, 2, 4, 2]
+
+no of other loc : 18
+-----------------------------------------------------------------------------------------------
+
+sub-module 3 : xml\dom\minicompat.py
+
+loc of submodule            : 47
+no of classes               : 2
+no of independent functions : 1, loc : [9]
+
+for class 1: loc : 16,  no of methods : 4,      loc of methods : [3, 2, 3, 4]
+for class 2: loc : 19,  no of methods : 5,      loc of methods : [4, 4, 2, 2, 3]
+
+no of other loc : 3
+-----------------------------------------------------------------------------------------------
+
+sub-module 4 : xml\dom\minidom.py
+
+loc of submodule            : 1521
+no of classes               : 20
+no of independent functions : 15, loc : [8, 6, 5, 7, 8, 6, 7, 7, 7, 68, 6, 6, 8, 8, 8]
+
+for class 1: loc : 203, no of methods : 23,     loc of methods : [2, 2, 2, 2, 2, 3, 3, 30, 15, 31, 14, 24, 2, 2, 2, 2, 5, 5, 16, 5, 8, 2, 2]        
+for class 2: loc : 15,  no of methods : 1,      loc of methods : [2]
+for class 3: loc : 94,  no of methods : 12,     loc of methods : [2, 5, 2, 2, 4, 2, 6, 2, 14, 12, 14, 12]
+for class 4: loc : 125, no of methods : 27,     loc of methods : [4, 2, 5, 5, 5, 5, 2, 2, 2, 2, 5, 2, 2, 2, 2, 2, 5, 14, 5, 5, 11, 11, 12, 2, 4, 2, 2]
+for class 5: loc : 15,  no of methods : 4,      loc of methods : [3, 6, 2, 2]
+for class 6: loc : 193, no of methods : 26,     loc of methods : [2, 4, 5, 2, 7, 7, 7, 11, 16, 4, 4, 15, 8, 8, 11, 4, 4, 2, 3, 2, 21, 3, 5, 3, 3, 10]
+for class 7: loc : 26,  no of methods : 8,      loc of methods : [2, 2, 3, 2, 3, 3, 2, 3]
+for class 8: loc : 18,  no of methods : 6,      loc of methods : [3, 2, 2, 2, 2, 2]
+for class 9: loc : 60,  no of methods : 10,     loc of methods : [5, 2, 2, 2, 8, 8, 2, 8, 9, 10]
+for class 10: loc : 74, no of methods : 5,      loc of methods : [14, 2, 17, 25, 11]
+for class 11: loc : 10, no of methods : 2,      loc of methods : [3, 4]
+for class 12: loc : 8,  no of methods : 1,      loc of methods : [4]
+for class 13: loc : 47, no of methods : 13,     loc of methods : [2, 2, 2, 4, 4, 8, 7, 3, 3, 3, 3, 2, 2]
+for class 14: loc : 9,  no of methods : 3,      loc of methods : [3, 2, 2]
+for class 15: loc : 54, no of methods : 4,      loc of methods : [7, 2, 25, 13]
+for class 16: loc : 30, no of methods : 8,      loc of methods : [5, 2, 2, 2, 3, 3, 3, 3]
+for class 17: loc : 6,  no of methods : 1,      loc of methods : [3]
+for class 18: loc : 53, no of methods : 5,      loc of methods : [4, 27, 5, 5, 2]
+for class 19: loc : 19, no of methods : 9,      loc of methods : [2, 2, 2, 2, 2, 2, 2, 2, 2]
+for class 20: loc : 267,        no of methods : 33,     loc of methods : [6, 6, 2, 2, 2, 2, 2, 2, 2, 2, 11, 10, 4, 5, 20, 4, 4, 7, 7, 4, 4, 5, 5, 6, 4, 4, 47, 2, 3, 2, 6, 2, 45]
+
+no of other loc : 30
+-----------------------------------------------------------------------------------------------
+
+sub-module 5 : xml\dom\NodeFilter.py
+
+loc of submodule            : 20
+no of classes               : 1
+no of independent functions : 0, loc : []
+
+for class 1: loc : 20,  no of methods : 1,      loc of methods : [2]
+
+no of other loc : 0
+-----------------------------------------------------------------------------------------------
+
+sub-module 6 : xml\dom\pulldom.py
+
+loc of submodule            : 276
+no of classes               : 4
+no of independent functions : 2, loc : [10, 7]
+
+for class 1: loc : 150, no of methods : 17,     loc of methods : [14, 4, 2, 6, 2, 48, 3, 12, 3, 8, 8, 4, 4, 4, 20, 3, 2]
+for class 2: loc : 7,   no of methods : 3,      loc of methods : [2, 2, 2]
+for class 3: loc : 66,  no of methods : 10,     loc of methods : [7, 4, 11, 5, 2, 14, 12, 4, 4, 5]
+for class 4: loc : 26,  no of methods : 5,      loc of methods : [5, 5, 5, 5, 5]
+
+no of other loc : 10
+-----------------------------------------------------------------------------------------------
+
+sub-module 7 : xml\dom\xmlbuilder.py
+
+loc of submodule            : 291
+no of classes               : 7
+no of independent functions : 1, loc : [2]
+
+for class 1: loc : 20,  no of methods : 0,      loc of methods : []
+for class 2: loc : 142, no of methods : 15,     loc of methods : [2, 2, 2, 2, 2, 2, 2, 13, 2, 3, 17, 6, 9, 4, 4]
+for class 3: loc : 32,  no of methods : 4,      loc of methods : [15, 6, 3, 6]
+for class 4: loc : 39,  no of methods : 15,     loc of methods : [8, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+for class 5: loc : 12,  no of methods : 3,      loc of methods : [2, 2, 2]
+for class 6: loc : 21,  no of methods : 6,      loc of methods : [2, 4, 3, 2, 2, 6]
+for class 7: loc : 18,  no of methods : 3,      loc of methods : [10, 3, 2]
+
+no of other loc : 5
+-----------------------------------------------------------------------------------------------
+
+sub-module 8 : xml\dom\__init__.py
+
+loc of submodule            : 81
+no of classes               : 19
+no of independent functions : 0, loc : []
+
+for class 1: loc : 14,  no of methods : 0,      loc of methods : []
+for class 2: loc : 8,   no of methods : 2,      loc of methods : [5, 2]
+for class 3: loc : 2,   no of methods : 0,      loc of methods : []
+for class 4: loc : 2,   no of methods : 0,      loc of methods : []
+for class 5: loc : 2,   no of methods : 0,      loc of methods : []
+for class 6: loc : 2,   no of methods : 0,      loc of methods : []
+for class 7: loc : 2,   no of methods : 0,      loc of methods : []
+for class 8: loc : 2,   no of methods : 0,      loc of methods : []
+for class 9: loc : 2,   no of methods : 0,      loc of methods : []
+for class 10: loc : 2,  no of methods : 0,      loc of methods : []
+for class 11: loc : 2,  no of methods : 0,      loc of methods : []
+for class 12: loc : 2,  no of methods : 0,      loc of methods : []
+for class 13: loc : 2,  no of methods : 0,      loc of methods : []
+for class 14: loc : 2,  no of methods : 0,      loc of methods : []
+for class 15: loc : 2,  no of methods : 0,      loc of methods : []
+for class 16: loc : 2,  no of methods : 0,      loc of methods : []
+for class 17: loc : 2,  no of methods : 0,      loc of methods : []
+for class 18: loc : 2,  no of methods : 0,      loc of methods : []
+for class 19: loc : 5,  no of methods : 0,      loc of methods : []
+
+no of other loc : 22
+-----------------------------------------------------------------------------------------------
+no of sub-modules : 8
+loc of module     : 2980
+
+ -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+
+Module 2 :
+
+ -----------------------------------------------------------------------------------------------
+
+
+sub-module 1 : xml\etree\cElementTree.py
+
+loc of submodule            : 1
+no of classes               : 0
+no of independent functions : 0, loc : []
+
+
+no of other loc : 1
+-----------------------------------------------------------------------------------------------
+
+sub-module 2 : xml\etree\ElementInclude.py
+
+loc of submodule            : 85
+no of classes               : 2
+no of independent functions : 3, loc : [10, 11, 53]
+
+for class 1: loc : 2,   no of methods : 0,      loc of methods : []
+for class 2: loc : 2,   no of methods : 0,      loc of methods : []
+
+no of other loc : 7
+-----------------------------------------------------------------------------------------------
+
+sub-module 3 : xml\etree\ElementPath.py
+
+loc of submodule            : 304
+no of classes               : 1
+no of independent functions : 14, loc : [22, 8, 2, 33, 18, 5, 4, 29, 11, 100, 36, 2, 2, 6]
+
+for class 1: loc : 4,   no of methods : 1,      loc of methods : [2]
+
+no of other loc : 22
+-----------------------------------------------------------------------------------------------
+
+sub-module 4 : xml\etree\ElementTree.py
+
+loc of submodule            : 1208
+no of classes               : 9
+no of independent functions : 26, loc : [2, 5, 4, 6, 36, 48, 49, 48, 5, 7, 4, 11, 19, 11, 10, 11, 7, 25, 4, 28, 5, 11, 6, 13, 13, 17]
+
+for class 1: loc : 2,   no of methods : 0,      loc of methods : []
+for class 2: loc : 109, no of methods : 26,     loc of methods : [7, 2, 2, 6, 6, 2, 6, 2, 7, 2, 3, 4, 3, 3, 2, 2, 2, 2, 2, 4, 2, 2, 2, 2, 7, 12]    
+for class 3: loc : 31,  no of methods : 9,      loc of methods : [4, 2, 2, 2, 4, 4, 4, 4, 4]
+for class 4: loc : 101, no of methods : 11,     loc of methods : [4, 2, 2, 21, 2, 8, 8, 8, 8, 6, 2]
+for class 5: loc : 11,  no of methods : 5,      loc of methods : [2, 2, 2, 2, 2]
+for class 6: loc : 29,  no of methods : 5,      loc of methods : [6, 8, 4, 2, 8]
+for class 7: loc : 68,  no of methods : 9,      loc of methods : [3, 4, 11, 2, 10, 8, 3, 3, 9]
+for class 8: loc : 180, no of methods : 19,     loc of methods : [39, 44, 2, 2, 2, 2, 2, 2, 2, 2, 5, 9, 2, 2, 8, 2, 49, 5, 14]
+for class 9: loc : 203, no of methods : 12,     loc of methods : [4, 4, 6, 26, 3, 13, 6, 13, 50, 11, 12, 11]
+
+no of other loc : 69
+-----------------------------------------------------------------------------------------------
+
+sub-module 5 : xml\etree\__init__.py
+
+loc of submodule            : 0
+no of classes               : 0
+no of independent functions : 0, loc : []
+
+
+no of other loc : 0
+-----------------------------------------------------------------------------------------------
+no of sub-modules : 5
+loc of module     : 1598
+
+ -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+
+Module 3 :
+
+ -----------------------------------------------------------------------------------------------
+
+
+sub-module 1 : xml\parsers\expat.py
+
+loc of submodule            : 4
+no of classes               : 0
+no of independent functions : 0, loc : []
+
+
+no of other loc : 4
+-----------------------------------------------------------------------------------------------
+
+sub-module 2 : xml\parsers\__init__.py
+
+loc of submodule            : 0
+no of classes               : 0
+no of independent functions : 0, loc : []
+
+
+no of other loc : 0
+-----------------------------------------------------------------------------------------------
+no of sub-modules : 2
+loc of module     : 4
+
+ -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+
+Module 4 :
+
+ -----------------------------------------------------------------------------------------------
+
+
+sub-module 1 : xml\sax\expatreader.py
+
+loc of submodule            : 332
+no of classes               : 3
+no of independent functions : 1, loc : [2]
+
+for class 1: loc : 2,   no of methods : 0,      loc of methods : []
+for class 2: loc : 23,  no of methods : 5,      loc of methods : [2, 5, 5, 5, 5]
+for class 3: loc : 267, no of methods : 31,     loc of methods : [10, 10, 3, 4, 11, 28, 16, 13, 10, 10, 17, 4, 15, 29, 4, 4, 2, 2, 2, 2, 26, 9, 2, 2, 2, 2, 2, 2, 2, 17, 4]
+
+no of other loc : 38
+-----------------------------------------------------------------------------------------------
+
+sub-module 2 : xml\sax\handler.py
+
+loc of submodule            : 67
+no of classes               : 5
+no of independent functions : 0, loc : []
+
+for class 1: loc : 7,   no of methods : 3,      loc of methods : [2, 2, 2]
+for class 2: loc : 17,  no of methods : 14,     loc of methods : [2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+for class 3: loc : 3,   no of methods : 2,      loc of methods : [1, 1]
+for class 4: loc : 3,   no of methods : 1,      loc of methods : [2]
+for class 5: loc : 6,   no of methods : 5,      loc of methods : [1, 1, 1, 1, 1]
+
+no of other loc : 31
+-----------------------------------------------------------------------------------------------
+
+sub-module 3 : xml\sax\saxutils.py
+
+loc of submodule            : 236
+no of classes               : 2
+no of independent functions : 6, loc : [4, 7, 6, 11, 28, 26]
+
+for class 1: loc : 87,  no of methods : 14,     loc of methods : [11, 8, 4, 3, 2, 4, 3, 9, 6, 15, 6, 6, 6, 3]
+for class 2: loc : 62,  no of methods : 28,     loc of methods : [3, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 6, 2, 2, 2, 2, 2, 2, 2]
+
+no of other loc : 5
+-----------------------------------------------------------------------------------------------
+
+sub-module 4 : xml\sax\xmlreader.py
+
+loc of submodule            : 157
+no of classes               : 6
+no of independent functions : 1, loc : [4]
+
+for class 1: loc : 34,  no of methods : 15,     loc of methods : [5, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+for class 2: loc : 22,  no of methods : 6,      loc of methods : [3, 12, 2, 2, 2, 2]
+for class 3: loc : 9,   no of methods : 4,      loc of methods : [2, 2, 2, 2]
+for class 4: loc : 27,  no of methods : 11,     loc of methods : [6, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+for class 5: loc : 39,  no of methods : 17,     loc of methods : [2, 2, 2, 2, 2, 4, 4, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+for class 6: loc : 20,  no of methods : 6,      loc of methods : [3, 5, 5, 2, 2, 2]
+
+no of other loc : 2
+-----------------------------------------------------------------------------------------------
+
+sub-module 5 : xml\sax\_exceptions.py
+
+loc of submodule            : 46
+no of classes               : 5
+no of independent functions : 0, loc : []
+
+for class 1: loc : 13,  no of methods : 5,      loc of methods : [4, 2, 2, 2, 2]
+for class 2: loc : 26,  no of methods : 6,      loc of methods : [6, 2, 2, 2, 2, 11]
+for class 3: loc : 1,   no of methods : 0,      loc of methods : []
+for class 4: loc : 1,   no of methods : 0,      loc of methods : []
+for class 5: loc : 1,   no of methods : 0,      loc of methods : []
+
+no of other loc : 4
+-----------------------------------------------------------------------------------------------
+
+sub-module 6 : xml\sax\__init__.py
+
+loc of submodule            : 55
+no of classes               : 0
+no of independent functions : 3, loc : [5, 13, 11]
+
+
+no of other loc : 26
+-----------------------------------------------------------------------------------------------
+no of sub-modules : 6
+loc of module     : 893
+
+ -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
+
+Total no of modules : 4
+LOC of Package      :  5476
